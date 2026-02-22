@@ -4,5 +4,5 @@ Learning Git and GitHub
 
 
 
-This is next change
+This is the next change.
 
